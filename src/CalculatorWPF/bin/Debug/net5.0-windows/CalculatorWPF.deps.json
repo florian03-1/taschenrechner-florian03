@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculatorWPF/1.0.0": {
+        "dependencies": {
+          "ExpressionParser": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorWPF.dll": {}
+        }
+      },
+      "ExpressionParser/1.0.0": {
+        "runtime": {
+          "ExpressionParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpressionParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
